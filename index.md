@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Kiosk Ball
 
-You can use the [editor on GitHub](https://github.com/maltob/kioskball_www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An application to allow you to convert an iPad to a Web Browser Kiosk easily.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
+1. Download from the Apple App Store
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Settings
 
-```markdown
-Syntax highlighted code block
+1. Open the settings on the iPad.
+2. Setup the home page
+3. Setup the help page
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maltob/kioskball_www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Filtering Domains
+1. If you're opening a page that can browse to other domains, enter in text in the limit domains field. Using , to seperate the domains
+2. To allow all subdomains of an approved domain, enable the allow subdomains option.
