@@ -22,11 +22,11 @@ This apple is from Unsplash, it's a nexample of a traditional red apple.<br/>
 ## Show a form with assitance on completing it to be provided on the help page.
 <form>
 <label >First Name </label><input type="text" placeholder="First name">
-
+<br/>
 <label >Last Name </label><input type="text" placeholder="Last name">
 <br/>
 <label >Email</label> <input type="text" placeholder="email@domain.com">
-
+<br/><br/>
 How well did our exhibit meet your needs?
 
 <input type="range" min=0 max=5 value=5 />
@@ -40,5 +40,5 @@ How likely would you be to recommend us to a friend?
 <br/>
 <br/>
 
-<input type="button" value="Send!" disabled>
+<input type="button" value="Send - Disabled" disabled style="padding:10px">
 </form>
